@@ -1,0 +1,32 @@
+div#test
+{ 
+	border:orange 20px groove;
+	padding:20px 50px 50px 40px;
+	margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 300px;
+}
+	
+body
+html { 
+		min-height: 100%
+}
+body
+{
+	background-image: url("../img/nba1.2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+	color: white;
+	
+}
+	
+}
+br#progressbar
+{
+	
+	border: orange 20px groove
+}
